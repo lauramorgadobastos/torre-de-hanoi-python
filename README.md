@@ -30,7 +30,7 @@ Por ser um projeto de estudo, a proposta prioriza clareza, legibilidade e boas p
 │   └── workflows/
 │       └── ci.yml          # Esteira de CI (flake8 + pytest)
 ├── docs/
-│   └── demo.gif            # Demonstração visual da execução no terminal
+│   └── imagens/            # Demonstração visual da execução no terminal
 ├── src/
 │   ├── __init__.py
 │   ├── hanoi.py            # Motor lógico (pilhas, regras, validação e recursão)
