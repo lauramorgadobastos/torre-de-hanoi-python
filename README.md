@@ -2,16 +2,13 @@
 
 # Torre de Hanói em Python
 
-[![CI](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions/workflows/ci.yml/badge.svg)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions/workflows/ci.yml)
-![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)
-![pytest](https://img.shields.io/badge/Tests-pytest-0A9EDC?logo=pytest&logoColor=white)
-![flake8](https://img.shields.io/badge/Style-flake8-4B8BBE?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-2EA44F)
+![Python](https://img.shields.io/badge/PYTHON-3.12%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/TESTS-PYTEST-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-44CC11?style=for-the-badge)
 
 
 Implementação da **Torre de Hanói** em Python com foco em fundamentos de programação: estruturas de dados tipo pilha (LIFO), recursão, interface de linha de comando (CLI) interativa, testes automatizados com `pytest`, análise de estilo com `flake8` e integração contínua via GitHub Actions.
 
-![Movimento 0](docs/imagens/movimento-0.png)
 
 </div>
 
@@ -52,11 +49,11 @@ Por ser um projeto de estudo, a proposta prioriza clareza, legibilidade e boas p
 
 1. Clone o repositório e entre na pasta:
 
-   ```bash
+  ```bash
    git clone https://github.com/lauramorgadobastos/torre-de-hanoi-python
    cd torre-de-hanoi-python
    ```
-2. Crie e ative o ambiente virtual:
+3. Crie e ative o ambiente virtual:
 
  ```bash
   python -m venv .venv
