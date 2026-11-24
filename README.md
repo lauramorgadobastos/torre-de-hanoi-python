@@ -11,7 +11,7 @@
 
 Implementação da **Torre de Hanói** em Python com foco em fundamentos de programação: estruturas de dados tipo pilha (LIFO), recursão, interface de linha de comando (CLI) interativa, testes automatizados com `pytest`, análise de estilo com `flake8` e integração contínua via GitHub Actions.
 
-<img src="./docs/demo.gif" alt="Demonstração do StockFlow" width="100%">
+![Movimento 0](docs/imagens/movimento-0.png)
 
 </div>
 
@@ -86,7 +86,7 @@ flake8 src tests --max-line-length=100
 pytest -v
 ```
 
-Para detalhes sobre a arquitetura interna da aplicação, consulte ![src/README.md](src/README.md)
+Para detalhes sobre a arquitetura interna da aplicação, consulte [src/README.md](src/README.md)
 
 ---
 
