@@ -17,3 +17,15 @@ Responsável pela interação no terminal e apresentação visual:
 - `render_board`: monta a representação visual dos pinos e discos em modo texto.
 - `run_automatic_mode` e `run_manual_mode`: conduzem os dois modos de execução utilizando `HanoiGame` e `solve_hanoi_recursive`.
 - `main`: ponto de entrada da CLI.
+
+  <img width="426" height="377" alt="movimento-0" src="https://github.com/user-attachments/assets/25965e08-9e49-4c10-a075-0cdeead91010" />
+  <br>
+
+
+
+
+
+
+
+
+
