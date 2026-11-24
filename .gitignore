@@ -221,3 +221,29 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Cache e artefatos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Testes e linters
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Editores e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
