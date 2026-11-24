@@ -83,7 +83,10 @@ def run_automatic_mode(num_disks: int) -> None:
     for step, move in enumerate(moves, start=1):
         input("\nPressione Enter para o próximo passo...")
         game.move_disk(move.source, move.target)
-        print(f"\nPasso {step}/{len(moves)}: mover disco {move.disk} de {move.source} -> {move.target}")
+        print(
+            f"\nPasso {step}/{len(moves)}: mover disco {move.disk} "
+            f"de {move.source} -> {move.target}"
+        )
         print(render_board(game))
 
     print(
